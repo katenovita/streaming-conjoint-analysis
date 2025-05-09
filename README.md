@@ -12,7 +12,7 @@ Conjoint analysis can help businesses answer:
 - How much are users willing to pay for premium options?
 - What bundle of features maximizes uptake or revenue?
 
-This project applies conjoint analysis to simulate Netflix-style product configurations and predict how different combinations of features and pricing would perform in the market. 
+This project applies conjoint analysis done in R, to simulate Netflix-style product configurations and predict how different combinations of features and pricing would perform in the market. 
 
 
 ## Data & Modeling Pipeline
