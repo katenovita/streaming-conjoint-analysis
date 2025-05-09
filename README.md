@@ -1,4 +1,4 @@
-## **Project Background**
+## **Project Background - Conjoint Analysis in R**
 
 Conjoint analysis is a popular method used in marketing and product research to understand how consumers make trade-offs between different features when selecting a product. 
 Rather than asking users directly what they value most, conjoint analysis infers the value ("utility") of each product feature by observing their choice behavior, given a set of options, under an actual or hypothetical setup.
